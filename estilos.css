@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+    font-family: system-ui;
+    text-align: center;
+}
+
+h1{ color:red; }
+
+label{ font-weight: bold; font-size: 14pt; }
+
+input{ background-color: lightblue; border: 1px solid black; }
+
+#email_user{ width: 290px; }
+
+#pass_user{ width: 240px;}
+
+button{
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+#enviar{ background-color: yellow; }
+
+#resetear{ background-color: pink; }
+
+div{ height: 40px; }
